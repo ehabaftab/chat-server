@@ -1,3 +1,22 @@
+TO run the program, 'server.py' needs to be run first by using the comand 'python3 server.py <port>'. 
+
+Clients can join by using 'nc' or 'netcat' e.g 'netcat <localhost> <port>'
+
+COMMANDS:
+
+REGISTER <username> <pass>
+LOGIN <username> <pass>
+CREATE <channel>
+JOIN <channel>
+SAY <channel> <message>
+
+
+
+
+
+
+
+
 To run the tests for server.py, just run the script "test.sh" which tests possible inputs and generates a report.
 
 JUST RUN "bash test.sh"

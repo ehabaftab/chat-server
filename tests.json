@@ -1,0 +1,5 @@
+[
+	{ "client_register" : "Failed" },
+	{ "client_login" : "Failed" },
+	{ "client_login_error" : "Failed" },
+	{ "client_error" : "Failed" },

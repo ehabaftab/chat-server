@@ -1,0 +1,9 @@
+LOGIN user1 123
+SAY test hi
+CREATE
+CREATE test
+JOIN
+JOIN invalid
+JOIN test
+SAY test hi
+CHANNELS

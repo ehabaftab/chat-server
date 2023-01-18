@@ -1,0 +1,3 @@
+To run the tests for server.py, just run the script "test.sh" which tests possible inputs and generates a report.
+
+JUST RUN "bash test.sh"

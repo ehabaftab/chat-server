@@ -1,0 +1,3 @@
+REGISTER user1 
+REGISTER user1 123 
+REGISTER user1 123

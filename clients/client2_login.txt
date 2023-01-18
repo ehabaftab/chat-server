@@ -1,0 +1,2 @@
+REGISTER user2 234
+LOGIN user2 234

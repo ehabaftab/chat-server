@@ -1,0 +1,9 @@
+LOGIN user1 123
+CHANNELS
+INVALID
+JOIN channel1
+SAY channel1 hi
+CREATE channel1
+SAY channel1 hi
+JOIN channel1
+JOIN channel1

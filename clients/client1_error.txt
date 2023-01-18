@@ -1,0 +1,4 @@
+CREATE test
+JOIN test
+SAY test hi
+CHANNELS

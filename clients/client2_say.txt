@@ -1,0 +1,9 @@
+LOGIN user2 234
+SAY test hey
+CREATE
+CREATE test
+JOIN
+JOIN invalid
+JOIN test
+SAY test hey
+SAY
